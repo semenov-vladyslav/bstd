@@ -1,0 +1,3 @@
+name: bstd
+depend: std-lib, bytes, cry
+include: src app

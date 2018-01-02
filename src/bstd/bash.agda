@@ -1,0 +1,1 @@
+module bstd.bash where
